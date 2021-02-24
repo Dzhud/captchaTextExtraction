@@ -1,0 +1,7 @@
+lxml==4.3.3
+Pillow==5.4.1
+pytesseract==0.3.7
+requests==2.17.3
+urllib==
+http.cookiejar==
+io==
