@@ -1,5 +1,3 @@
-__author__ = "Dzhud"
-
 import lxml.html
 import urllib.request as urllib2
 import pprint
@@ -11,6 +9,7 @@ import pytesseract
 import requests
 #import base64
 
+__author__ = "Dzhud"
 
 def parse_form(html):
     tree = lxml.html.fromstring(html)
