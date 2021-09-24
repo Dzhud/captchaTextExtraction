@@ -1,4 +1,4 @@
 # captchaTextExtraction
-Python Script that reads difficult and distorted embedded CAPTCHA images. 
-CATCHA Images are read and manipulated with PILLOW
-Text is extracted with pytesseract.
+Python Script that reads certain difficult and distorted embedded CAPTCHA images in web links. 
+- CATCHA Images are read and manipulated with Python library, PILLOW
+- Text is extracted with pytesseract
